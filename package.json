@@ -1,0 +1,25 @@
+{
+  "name": "ncloudsms_js",
+  "version": "0.1.0",
+  "description": "ncloudsms nodejs sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "ncloud",
+    "sms",
+    "nodejs",
+    "sdk"
+  ],
+  "author": "wendygao",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "querystring": "^0.2.0"
+  }
+}
